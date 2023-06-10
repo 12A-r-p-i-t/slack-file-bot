@@ -1,0 +1,5 @@
+Designed an engaging and user-friendly chat interface using HTML, CSS, and ReactJS for the front end.
+Implemented a fully functional server-side system on a web server using Golang. 
+Users can join the chat-server and actively take part in discussions while maintaining their anonymity.
+Websockets were used for the real-time, full duplex communication between client and server.
+ users can join, engage in discussions, and exchange ideas on various topics while maintaining their anonymity.
